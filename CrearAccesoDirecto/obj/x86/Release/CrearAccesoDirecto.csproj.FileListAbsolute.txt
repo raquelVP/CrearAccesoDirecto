@@ -1,0 +1,6 @@
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\obj\x86\Release\CrearAccesoDirecto.csproj.ResolveComReference.cache
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\bin\Release\CrearAccesoDirecto.exe
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\bin\Release\CrearAccesoDirecto.pdb
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\obj\x86\Release\CrearAccesoDirecto.exe
+D:\RVelasquez\Documents\Visual Studio 2010\Projects\CrearAccesoDirecto\CrearAccesoDirecto\obj\x86\Release\CrearAccesoDirecto.pdb
